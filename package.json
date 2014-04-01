@@ -1,0 +1,19 @@
+{
+  "name": "riot-observable",
+  "version": "0.0.1",
+  "description": "Just the 'observable' function from Riot.js, as a CommonJS module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callumlocke/riot-observable"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/callumlocke/riot-observable/issues"
+  },
+  "homepage": "https://github.com/callumlocke/riot-observable"
+}

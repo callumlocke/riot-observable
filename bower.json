@@ -1,0 +1,15 @@
+{
+  "name": "riot-observable",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Just the 'observable' function from Riot.js, as a CommonJS module",
+  "license": "MIT",
+  "homepage": "http://github.com/callumlocke/riot-observable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
